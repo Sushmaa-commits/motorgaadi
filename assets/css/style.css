@@ -58,6 +58,10 @@ img {
   max-width: 100%;
 }
 
+.loader{
+  background: #009898;
+}
+
 .d-table {
   width: 100%;
   height: 100%;
@@ -220,7 +224,7 @@ button:focus {
   display: inline-block;
   font-size: 15px;
   color: #ffffff;
-  background-color: #48d683;
+  background-color: #009898ab;
   padding: 12px 25px;
   border-radius: 30px;
   margin-top: 15px;
@@ -257,7 +261,7 @@ Nav Area Style
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a {
   font-size: 16px;
-  color: #08104d;
+  color: #009898;
   text-transform: capitalize;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -298,7 +302,7 @@ Nav Area Style
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
   font-size: 14px;
-  color: #08104d;
+  color:#009898;
   position: relative;
   padding: 10px 15px;
   border-bottom: 1px dashed #eeeeee;
@@ -396,12 +400,12 @@ Nav Area Style
 
 .nav-area .others-option.app .get-quote .default-btn {
   background-color: transparent;
-  border: 1px solid #08104d;
-  color: #08104d;
+  border: 1px solid #009898;;
+  color: #009898;;
 }
 
 .nav-area .others-option.app .get-quote .default-btn:hover {
-  background-color: #08104d;
+  background-color: #009898;
   color: #ffffff;
 }
 
@@ -11199,7 +11203,7 @@ Nav Area Style
 
 .export-section-title .sub-title {
   display: block;
-  color: #0063dd;
+  color:#009898d6;
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 500;
@@ -11215,7 +11219,7 @@ Nav Area Style
   height: 2px;
   left: 0;
   bottom: 8px;
-  background-color: #0063dd;
+  background-color:#009898c7;
 }
 
 .export-section-title h2 {
@@ -11276,13 +11280,13 @@ Nav Area Style
 }
 
 .export-modern-area .modern-content .nav-pills .nav-default span {
-  color: #0063dd;
+  color: #009898e3;
 }
 
 .export-modern-area .modern-content .nav-pills .nav-default.active, .export-modern-area .modern-content .nav-pills .show > .nav-default {
   color: #9a9a9a;
   background-color: transparent;
-  border-bottom: 1px solid #0063dd;
+  border-bottom: 1px solid #009898e3;
   position: relative;
 }
 
@@ -11301,7 +11305,7 @@ Nav Area Style
   text-transform: uppercase;
   font-weight: 500;
   font-size: 15px;
-  background-color: #0063dd;
+  background-color: #009898b5;
   border-radius: 5px;
   padding: 13px 20px 13px 24px;
   color: #ffffff;
@@ -12144,7 +12148,7 @@ Nav Area Style
 }
 
 .export-contact-form-area .soft-contact-btn {
-  background-color: #0063dd;
+  background-color:#009898de;
 }
 
 .export-contact-form-area .soft-contact-btn:hover {
@@ -14316,7 +14320,7 @@ Nav Area Style
 .seo-section-title .sub-title {
   display: inline-block;
   font-size: 17px;
-  color: #48d683;
+  color: #009898b0;
   text-transform: uppercase;
   position: relative;
   margin-bottom: 15px;
@@ -14329,7 +14333,7 @@ Nav Area Style
   height: 2px;
   left: -32px;
   bottom: 5px;
-  background-color: #48d683;
+  background-color:#009898b0;
 }
 
 .seo-section-title h2 {
@@ -15753,7 +15757,7 @@ Nav Area Style
   width: 100%;
   height: 100%;
   z-index: 99999;
-  background: #08104d;
+  background: #009898;
 }
 
 .spinner {
@@ -15810,7 +15814,7 @@ Page Title Area Style
   padding-bottom: 150px;
   text-align: center;
   z-index: 1;
-  background-color: #08104d;
+  background-color:  #009898;
 }
 
 .page-title-area::before {
@@ -16073,7 +16077,7 @@ Sign In & Log In  Area Style
 }
 
 .user-area-all-style .contact-form-action form .form-condition .agree-label a {
-  color: #48d683;
+  color: #009898a8;
 }
 
 .user-area-all-style .contact-form-action form .form-group {
@@ -16100,7 +16104,7 @@ Sign In & Log In  Area Style
 }
 
 .user-area-all-style .contact-form-action .account-desc a {
-  color: #48d683;
+  color:#009898a8;
   margin-left: 10px;
   font-weight: 400;
 }
@@ -16119,7 +16123,7 @@ Sign In & Log In  Area Style
 
 .user-area-all-style .contact-form-action .forget {
   float: right;
-  color: #48d683;
+  color: #009898a8;
   font-weight: 400;
 }
 
@@ -16130,11 +16134,11 @@ Sign In & Log In  Area Style
 }
 
 .user-area-all-style .contact-form-action .now-register a {
-  color: #48d683;
+  color: #009898a8;
 }
 
 .user-area-all-style .contact-form-action .now-log-in {
-  color: #48d683;
+  color:#009898a8;
   font-weight: 400;
 }
 

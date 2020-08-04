@@ -6643,7 +6643,7 @@
   /* Only Mobil Menu Max width 991px */
   @media only screen and (max-width: 991px) {
     .mean-container .mean-bar {
-      background-color: #369e89;
+      background-color: #acd8d8;
       -webkit-box-shadow: 0px 20px 20px 20px rgba(0, 0, 0, 0.05);
               box-shadow: 0px 20px 20px 20px rgba(0, 0, 0, 0.05);
       height: 70px;
