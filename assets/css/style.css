@@ -88,6 +88,14 @@ img {
   padding-bottom: 100px;
 }
 
+.driver-app{
+  display:flex;
+  flex-direction:row;
+}
+.rider-app{
+  display:flex;
+  flex-direction:row;
+}
 button:focus {
   outline: 0;
 }
@@ -7341,7 +7349,7 @@ Nav Area Style
   display: inline-block;
   font-weight: 600;
   font-size: 35px;
-  color: #8058e6;
+  color: #0098989e;
   margin-bottom: 5px;
 }
 
@@ -16077,7 +16085,7 @@ Sign In & Log In  Area Style
 }
 
 .user-area-all-style .contact-form-action form .form-condition .agree-label a {
-  color: #009898a8;
+  color:#009898bf;
 }
 
 .user-area-all-style .contact-form-action form .form-group {
