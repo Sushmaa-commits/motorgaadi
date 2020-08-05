@@ -4622,7 +4622,7 @@ Nav Area Style
 .app-footer-area .footer-item .footer-explore h3 {
   font-weight: 600;
   font-size: 20px;
-  color: #08104d;
+  color: #009898de;
   margin-bottom: 30px;
 }
 
@@ -14609,7 +14609,7 @@ Nav Area Style
   transition: all 0.5s;
   border-radius: 5px;
   z-index: -1;
-  background: linear-gradient(77deg, #fb8021 0%, #f2a412 64%);
+  background: linear-gradient(77deg, #00989875 0%, #009898b3 64%);
 }
 
 .seo-service-area .service-item:hover img {
@@ -14680,7 +14680,7 @@ Nav Area Style
 .seo-service-area .service-item h3 {
   font-weight: 600;
   font-size: 20px;
-  color: #08104d;
+  color: #009898ed;
   font-family: "Poppins", sans-serif;
   margin-bottom: 12px;
   -webkit-transition: all 0.5s;
@@ -15991,7 +15991,7 @@ Terms Conditions Area CSS
   margin-bottom: 30px;
   font-weight: 700;
   font-size: 22px;
-  color: #08104d;
+  color:#009898ed;
 }
 
 .terms-conditions-area ul {
