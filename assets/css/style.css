@@ -872,7 +872,7 @@ Nav Area Style
 
 .host-nav-area.nav-area .host-nav-wrap .purchase-btn a:hover {
   color: #ffffff;
-  background-color: #08104d;
+  background-color: #009898ad;
 }
 
 .host-nav-area.nav-area .host-nav-wrap .side-icon {
@@ -19097,3 +19097,7 @@ Product Details Area Style
   background-color: #eaeaea;
 }
 /*# sourceMappingURL=style.css.map */
+
+.auto{
+  border-radius: 237px 252px 180px 215px;
+}
