@@ -11217,18 +11217,9 @@ Nav Area Style
   font-weight: 500;
   margin-bottom: 15px;
   position: relative;
-  padding-left: 40px;
+
 }
 
-.export-section-title .sub-title:before {
-  position: absolute;
-  content: '';
-  width: 30px;
-  height: 2px;
-  left: 0;
-  bottom: 8px;
-  background-color:#009898c7;
-}
 
 .export-section-title h2 {
   font-weight: 600;
