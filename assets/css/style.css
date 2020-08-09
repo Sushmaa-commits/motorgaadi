@@ -7689,12 +7689,12 @@ Nav Area Style
 }
 
 .ride-process-area .ride-section-title .sub-title {
-  color: #8152f9;
+  color: #009898c9;
   background-color: #e5dcfd;
 }
 
 .ride-process-area .ride-section-title h2 span {
-  color: #8152f9;
+  color: #009898c9;
 }
 
 .ride-process-area .process-item {
@@ -8077,7 +8077,7 @@ Nav Area Style
 }
 
 .ride-app-area .app-item .ride-section-title h2 span {
-  color: #8152f9;
+  color: #009898b8;
 }
 
 .ride-app-area .app-item p {
@@ -8090,12 +8090,12 @@ Nav Area Style
   font-weight: 500;
   font-size: 15px;
   position: relative;
-  border: 1px solid #8058e5;
+  border: 1px solid #00989859;
   border-radius: 3px;
   z-index: 1;
   padding: 14px 25px 12px;
-  -webkit-box-shadow: 0px 0px 20px 0px #8058e58c;
-          box-shadow: 0px 0px 20px 0px #8058e58c;
+  -webkit-box-shadow: 0px 0px 20px 0px #00989859;
+          box-shadow: 0px 0px 20px 0px #00989838;
 }
 
 .ride-app-area .app-item a:before {
@@ -8110,11 +8110,11 @@ Nav Area Style
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   background: -webkit-gradient(linear, left top, left bottom, from(#7c5ccf), color-stop(49%, #8354fe));
-  background: linear-gradient(180deg, #7c5ccf 0%, #8354fe 49%);
+  background: linear-gradient(180deg, #009898ed 0%, #009898eb 49%);
 }
 
 .ride-app-area .app-item a:hover {
-  color: #8058e5;
+  color: #009898;
 }
 
 .ride-app-area .app-item a:hover:before {
@@ -19098,6 +19098,11 @@ Product Details Area Style
 }
 /*# sourceMappingURL=style.css.map */
 
-.auto{
-  border-radius: 237px 252px 180px 215px;
+.service1{
+
+  border-radius: 100px 945px 500px 100px;
+}
+
+.service2{
+  border-radius: 240px 400px;
 }
