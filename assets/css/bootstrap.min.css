@@ -8,4 +8,8 @@
  .nav{
          flex-direction: column;
  }
+
+ a{
+         color: #ffffff;
+ }
 /*# sourceMappingURL=bootstrap.min.css.map */
