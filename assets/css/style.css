@@ -8990,8 +8990,8 @@ Nav Area Style
   height: 28px;
   line-height: 32px;
   border-radius: 50%;
-  color: #f42e14;
-  background-color: #f42e1433;
+  color: #009898;
+  background-color: #00989842;
   text-align: center;
   position: relative;
   z-index: 1;
@@ -8999,7 +8999,7 @@ Nav Area Style
 
 .ride-copyright-area .copyright-item ul li a:hover {
   color: #ffffff;
-  background-color: #f42e14;
+  background-color:#009898;
 }
 
 /*-- End Copyright --*/
